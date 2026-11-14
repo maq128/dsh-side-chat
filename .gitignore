@@ -1,0 +1,8 @@
+# 依赖与构建产物（本插件无构建步骤）
+node_modules/
+
+# 日志与缓存
+*.log
+.cache/
+.DS_Store
+Thumbs.db

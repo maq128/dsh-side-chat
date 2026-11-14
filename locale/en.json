@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Side chat",
+    "description": "Start a side conversation with `/side <content>`. It forks the main context for cache reuse, injects hidden control rules, mirrors the main session's current permission preset, stays out of the sidebar, and opens in the right sidebar."
+  }
+}
